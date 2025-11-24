@@ -16,7 +16,6 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Results](#results)
-- [Citation](#citation)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgments)
 
@@ -307,20 +306,6 @@ Do you have training data?
 
 ---
 
-## 📚 Citation
-
-If you use this work in your research, please cite:
-
-```bibtex
-@article{agarwal2024evaluating,
-  title={Evaluating Small Language Models for News Summarization: Implications and Factors Influencing Performance},
-  author={Agarwal, Aman and Siwach, Nakul and Shivhare, Himanshu},
-  year={2024},
-  institution={International Institute of Information Technology, Bangalore}
-}
-```
-
----
 
 ## 👥 Authors
 
@@ -339,11 +324,6 @@ If you use this work in your research, please cite:
 
 ---
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ## 🐛 Issues & Contributions
 
@@ -363,13 +343,12 @@ Found a bug or want to contribute? Please open an issue or submit a pull request
 
 For questions or collaborations:
 - Open an issue in this repository
-- Email: [Your institutional email]
+- Email: aman.agarwal@iiitb.ac.in
 
 ---
 
 ## 🔗 Links
 
-- [Research Paper (LaTeX)](research_paper.tex)
 - [Presentation (LaTeX)](research_presentation.tex)
 - [Hugging Face Transformers](https://huggingface.co/docs/transformers)
 - [CNN/DailyMail Dataset](https://huggingface.co/datasets/cnn_dailymail)
