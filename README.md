@@ -249,23 +249,7 @@ All detailed results are available in JSON format:
 
 ## 📄 Research Paper & Presentation
 
-### Compile Paper (Overleaf)
-
-1. Go to [Overleaf](https://www.overleaf.com)
-2. Upload `research_paper_complete.zip`
-3. Click "Recompile"
-4. Download PDF
-
-**Output**: 8-10 page two-column academic paper
-
-### Compile Presentation (Overleaf)
-
-1. Go to [Overleaf](https://www.overleaf.com)
-2. Upload `research_presentation_complete.zip`
-3. Click "Recompile"
-4. Download PDF
-
-**Output**: 27-slide professional presentation
+Added in the Repository
 
 ---
 
