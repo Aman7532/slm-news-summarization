@@ -245,14 +245,6 @@ All detailed results are available in JSON format:
 - [`flan_t5_base_results.json`](flan_t5_base_results.json)
 - [`bart_base_results.json`](bart_base_results.json)
 
-### Visualizations
-
-Generate figures from results:
-```python
-# Figures are included in the ZIP files
-# To regenerate: see research_paper.tex and research_presentation.tex
-```
-
 ---
 
 ## 📄 Research Paper & Presentation
